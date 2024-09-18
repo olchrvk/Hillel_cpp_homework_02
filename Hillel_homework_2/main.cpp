@@ -41,7 +41,7 @@ int main()
 		cout << "---------------------->" << "\n";
 		cout << i + 1 << " " << "Fruit name: " << fruits[i].Name << "\n";
 		cout << i + 1 << " " << "Fruit weight: " << fruits[i].Weight << "\n";
-		cout << i + 1 << " " << "Expiration date" << fruits[i].ExpDate << "\n";
+		cout << i + 1 << " " << "Expiration date: " << fruits[i].ExpDate << "\n";
 	}
 
 	return 0;
